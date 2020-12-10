@@ -1,0 +1,23 @@
+.register-container {
+    max-width: 500px !important;
+}
+
+.form-control.registration {
+    border-top: 0px !important;
+    border-right: 0px !important;
+    border-left: 0px !important;
+    border-radius: 0px !important;
+    border-bottom: 2px solid #95989b;
+    background-color: transparent;
+}
+
+input.registration:focus {
+    background-color: #fff;
+    border-top-color: transparent !important;
+    border-right: 0px !important;
+    border-left: 0px !important;
+    border-radius: 0px !important;
+    border-bottom-color: #80bdff;
+    outline: 0;
+    box-shadow: 0px 3px 5px 0rem rgba(0, 123, 255, 0.25) !important;
+}

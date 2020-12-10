@@ -1,0 +1,22 @@
+li.nav-item {
+    margin-left: 1rem !important;
+}
+li:hover{
+    color: goldenrod !important;
+    text-decoration: none;
+    cursor: pointer;
+}
+.navbar-toggler {
+    background-color: white !important;
+}
+a {
+    color: #92badd;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+a:hover {
+    color: goldenrod !important;
+    text-decoration: none;
+}

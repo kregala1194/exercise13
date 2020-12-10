@@ -1,0 +1,14 @@
+footer {
+    text-align: center !important;
+    padding: 3px !important;
+    background-color: #282828 !important;
+}
+footer p, p > a {
+    margin: 1rem 0 1rem 0;
+    color: #bcbcbc;
+}
+
+footer p > a:hover{
+    color: white;
+    text-decoration: none;
+}
